@@ -1,0 +1,13 @@
+$color-font: #000;
+$color-bg-default: #33f;
+$font-default: Arial, Helvetica, sans-serif;
+
+body {
+    font-family: $font-default;
+    margin: 0;
+}
+
+h1 {
+    color: $color-font;
+    text-align: center;
+}
